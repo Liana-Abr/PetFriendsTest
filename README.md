@@ -10,4 +10,4 @@ POST
 PUT
 DELETE
 ```
-![Screenshot]test_done.png
+![this is a screenshot](test_done.png)
